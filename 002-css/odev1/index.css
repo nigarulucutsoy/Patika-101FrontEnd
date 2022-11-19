@@ -1,0 +1,38 @@
+
+.navbar{
+ /*   padding:10px;*/
+ background-color: #61764B;
+ text-align: center;
+ width: 400px;
+ margin-left: 30%;
+ padding: 10px;
+}
+.navbarh1{
+    color:white;
+}
+.navbar_ul{
+    margin-right: 50px;
+}
+.navbar_li{
+    display:inline-block;
+    font-size: 20px;
+    color: white;
+    padding-left: 8px;
+}
+.bodytext1{
+    text-align: center;
+}
+.sonText{
+    font-style: italic;
+    color: #8B7E74;
+    
+}
+.bg-white{
+    background-color: white;
+}
+
+li {
+    font-size: 18px;
+    color: #9E7676;
+    font-weight: bold;
+}
