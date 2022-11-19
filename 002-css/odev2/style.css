@@ -1,0 +1,55 @@
+.container{
+    width: 1000px;
+    margin: 0 auto 0;
+}
+.navbar{
+    text-align: center;
+}
+.article1{
+    background-color: #EEEEEE;
+    text-align: center;
+    padding: 0;
+    width: 30½;
+}
+
+.input{
+    width: 320px;
+}
+
+.p-decoration{
+    margin:0;
+    padding: 0;
+}
+
+.textt{
+    font-size: 13px;
+}
+
+.box1{
+    text-align: center;
+    float: left;
+    padding: 10px 50px;
+    width: 25%;
+    background-color: #7EE5DA;
+    margin:2px 2px 0px 0px;
+}
+.box2{
+    text-align: center;
+    float: left;
+    width: 22%;
+    background-color: #70CCC2;
+    margin:2px 2px 0px 0px;
+    padding: 1px;
+}
+.box3{
+    text-align: center;
+    float: left;
+    background-color: #62B3AA ;
+    margin-top: 2px;
+    width: 42%;
+}
+.footertext{
+    
+    font-size: 13px;
+    text-align: center;
+}
