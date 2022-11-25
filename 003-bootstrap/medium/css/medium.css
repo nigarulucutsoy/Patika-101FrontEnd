@@ -1,0 +1,15 @@
+.font{
+    font-family: 'Playfair Display', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border: 1px solid #414141;
+}
+.border-top-dark{
+    border-top: 1px solid #b1b1b1;
+
+}
