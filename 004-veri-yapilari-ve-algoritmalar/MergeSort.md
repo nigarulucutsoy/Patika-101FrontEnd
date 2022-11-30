@@ -17,4 +17,5 @@
 - O (nlogn)
 
 
+# Nigar Ulucutsoy
 [Patika](https://app.patika.dev/nigarulucutsoy)
