@@ -17,4 +17,4 @@
 - O (nlogn)
 
 
-[Patika] (https://app.patika.dev/nigarulucutsoy)
+[Patika](https://app.patika.dev/nigarulucutsoy)
