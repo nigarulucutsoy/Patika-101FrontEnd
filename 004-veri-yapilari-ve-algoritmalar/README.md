@@ -11,3 +11,6 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 - [2,6,16,18,22,27] *-> İstenilen sıralama tamamdandı.*
  
 ## Big-O gösterimi
+
+-birinci kısımda n arama, ikinci kısımda n-1 arama şeklinde +1'e kadar gider. Bu sayede formülü şu şekilde yazarız;
+-- s
