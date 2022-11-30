@@ -33,5 +33,5 @@
 > **9.adım:** 2 sayısı 7'den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den de küçük olduğu için soluna yazılır.
 
 
-#Nigar Ulucutsoy
+# Nigar Ulucutsoy
 [Patika](https://app.patika.dev/nigarulucutsoy)
