@@ -30,4 +30,8 @@
 > **8.adım:** 4 sayısı 7'den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den de büyük olduğu için onun da sağına yazılır.
 
 ![image](https://user-images.githubusercontent.com/84670856/204893317-c664d07e-64bc-45b5-90ec-cdaa64e6388f.png)
-> **9.adım:** 2 sayısı 7'den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den de küçük olduğu için soluna yazılır. 
+> **9.adım:** 2 sayısı 7'den küçük olduğu için soluna, 5'den küçük olduğu için soluna, 1'den büyük olduğu için sağına, 3'den de küçük olduğu için soluna yazılır.
+
+
+#Nigar Ulucutsoy
+[Patika](https://app.patika.dev/nigarulucutsoy)
