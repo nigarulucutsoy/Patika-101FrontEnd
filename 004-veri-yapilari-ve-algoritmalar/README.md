@@ -12,5 +12,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
  
 ## Big-O gösterimi
 
--birinci kısımda n arama, ikinci kısımda n-1 arama şeklinde +1'e kadar gider. Bu sayede formülü şu şekilde yazarız;
--- s
+- Birinci kısımda n arama, ikinci kısımda n-1 arama şeklinde +1'e kadar gider. Bu sayede formülü şu şekilde yazarız;
+- (n.(n+1))/2 
+- (n^2+n)/2
+- Sonuç olarak Big O gösterimi => O(n^2)
