@@ -10,8 +10,8 @@
  ![image](https://user-images.githubusercontent.com/84670856/204889597-50c0225e-1b67-4f48-95bd-57d93f7f1895.png)
 > **2.adım :** 1 sayısı 7'den küçük olduğu için soluna giderken orada 5 ile karşılaşır, 5'ten küçük olduğu için 5'in soluna konulur.
 
-- **3.adım:** 8 sayısı 7'den büyük olduğu için direkt asğına yazılır.
-- ![image](https://user-images.githubusercontent.com/84670856/204890101-4be9ea98-33e8-4335-897d-f875599fd77f.png)
 
+ ![image](https://user-images.githubusercontent.com/84670856/204890101-4be9ea98-33e8-4335-897d-f875599fd77f.png)
+> **3.adım:** 8 sayısı 7'den büyük olduğu için direkt asğına yazılır.
 
 
