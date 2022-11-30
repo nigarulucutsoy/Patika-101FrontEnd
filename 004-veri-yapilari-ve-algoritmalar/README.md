@@ -10,4 +10,4 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 [2,6,16,22|18,27]
 [2,6,16,18,22,27] -> İstenilen sıralama tamamdandı.
  
-##Big-O gösterimi
+## Big-O gösterimi
